@@ -17,7 +17,7 @@ This project involves development of Image captioning system that provides descr
 
 2. Navigate to the project directory:
     ```bash
-    cd image_captioning_nlp
+    cd image_captioning_nlp/project
     ```
 
 3. Install the required Python packages using pip:
@@ -39,7 +39,7 @@ To perform inference using the provided model, follow these steps:
 
 1. Navigate to the project directory:
     ```bash
-    cd image_captioning_nlp
+    cd image_captioning_nlp/project
     ```
 
 2. Open the inference notebook:
